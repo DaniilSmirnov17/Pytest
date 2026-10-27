@@ -23,7 +23,6 @@ source venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
-*(Вы можете создать этот файл автоматически, выполнив команду `pip freeze > requirements.txt` после установки pytest).*
 
 ## Использование (Usage)
 
