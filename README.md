@@ -6,7 +6,7 @@
 
 **1. Клонирование репозитория:**
 ```bash
-git clone https://github.com
+git clone https://github.com/DaniilSmirnov17/Pytest.git
 cd pytest_project
 ```
 
